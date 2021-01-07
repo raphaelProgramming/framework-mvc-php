@@ -1,0 +1,16 @@
+{
+    "name": "raphael/mvcframework",
+    "description": "composer file with dependencies for Route, Application and Response MVC Framework",
+    "authors": [
+        {
+            "name": "raphaelProgramming",
+            "email": "raphael.moreira97@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
